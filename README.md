@@ -10,8 +10,8 @@
 ![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D4)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
-> **下载**：到 [Releases](https://github.com/qiupiao-hub/bili-gift-shot/releases/latest) 下 `B站送礼自动截图_三主题版.zip`，
-> 解压后双击 `B站送礼自动截图.exe`（约 68 MB，免安装，Win10/11 64 位）。
+> **下载**：到 [Releases](https://github.com/qiupiao-hub/bili-gift-shot/releases/latest) 下 `BiliGiftShot_v1.0.0_win64.zip`，
+> 解压后双击里面的 `B站送礼自动截图.exe`（约 68 MB，免安装，Win10/11 64 位）。
 
 三套皮肤点一下即换（监听不中断，选择会记住）：
 
