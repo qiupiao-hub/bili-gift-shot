@@ -1,0 +1,25 @@
+{
+  "room_id": "",
+  "sessdata": "",
+  "window_title": "直播姬|直播间",
+  "window_hwnd": 0,
+  "delay_seconds": 1.0,
+  "min_price_gift": 10.0,
+  "min_price_sc": 0.0,
+  "guard_levels": [
+    1,
+    2,
+    3
+  ],
+  "capture_gift": true,
+  "capture_sc": true,
+  "capture_guard": true,
+  "include_silver_gift": false,
+  "crop": null,
+  "out_dir": "shots",
+  "log_csv": "shots/gifts.csv",
+  "image_format": "png",
+  "window_timeout_seconds": 3.0,
+  "auto_start": false,
+  "theme": "kitty"
+}

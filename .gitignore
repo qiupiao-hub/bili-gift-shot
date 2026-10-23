@@ -1,0 +1,28 @@
+# ---- 运行时产物 ----
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+logs/
+shots/
+_selftest.json
+_selftest.png
+
+# ---- 本机配置与截图（可能含直播间号/观众昵称，不入库） ----
+config.json
+*.zip
+
+# ---- 调试脚本与临时文件（只在根目录） ----
+/_*.py
+/_*.txt
+/_*.log
+
+# ---- 文档里只保留成品图 ----
+docs/crop_*.png
+docs/t1.png
+docs/t2.png
+docs/t3.png
+docs/screenshot*.png
+docs/使用说明.txt

@@ -1,0 +1,9 @@
+# 运行时依赖（blivedm 已内置在 vendor/，不需要 pip 安装）
+# 注意：不要 `pip install blivedm` —— PyPI 上那个 0.1.1 版本锁死了 brotli==1.0.9，
+# 在 Python 3.12/3.13 上会因为编译 C 扩展失败（error: Microsoft Visual C++ 14.0 or greater is required）。
+aiohttp>=3.9
+Brotli>=1.1.0
+pure-protobuf
+yarl
+numpy>=1.24
+windows-capture>=2.0.1
